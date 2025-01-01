@@ -1,0 +1,21 @@
+{
+  "name": "dracula-light",
+  "displayName": "Dracula Light",
+  "description": "A light theme inspired by the popular Dracula theme, perfect for daytime coding with a soft, vibrant color palette.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dracula Light",
+        "uiTheme": "vs",
+        "path": "./themes/Dracula-Light-color-theme.json"
+      }
+    ]
+  }
+}
