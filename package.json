@@ -1,8 +1,17 @@
 {
-  "name": "dracula-light",
-  "displayName": "Dracula Light",
-  "description": "A light theme inspired by the popular Dracula theme, perfect for daytime coding with a soft, vibrant color palette.",
+  "name": "dracula-theme-light-dark",
+  "displayName": "Dracula Theme Light & Dark",
+  "description": "Light and Dark themes inspired by the popular Dracula theme",
+  "license": "MIT",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/f-hossen/dracula-theme-light-dark.git"
+  },
+  "bugs": {
+    "url": "https://github.com/f-hossen/dracula-theme-light-dark/issues"
+  },
+  "homepage": "https://github.com/f-hossen/dracula-theme-light-dark",
   "engines": {
     "vscode": "^1.96.0"
   },
@@ -15,6 +24,11 @@
         "label": "Dracula Light",
         "uiTheme": "vs",
         "path": "./themes/Dracula-Light-color-theme.json"
+      },
+      {
+        "label": "Dracula Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dracula-dark-color-theme.json"
       }
     ]
   }
