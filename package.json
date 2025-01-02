@@ -31,5 +31,6 @@
         "path": "./themes/dracula-dark-color-theme.json"
       }
     ]
-  }
+  },
+  "icon": "icon.png"
 }
