@@ -27,7 +27,7 @@ A light and dark theme inspired by the popular Dracula theme.
 
 ## Usage
 
-1. Go to **File > Preferences > Color Theme** (or `Ctrl+K Ctrl+T`).
+1. Go to **File > Preferences > Color Theme** (`Ctrl+K Ctrl+T` or `Cmd+K Cmd+T`).
 2. Select `Dracula Light` or `Dracula Dark` from the list.
 
 ## Contributing
